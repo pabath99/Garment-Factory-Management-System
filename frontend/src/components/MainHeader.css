@@ -1,0 +1,30 @@
+.lol{
+     margin-top: 10px;
+     margin-left: 20px;
+     
+     
+    
+}
+
+.navbar-nav123{
+     list-style-type: none;
+     margin: 0;
+     padding: 20px;
+     overflow: hidden;
+     background-color: #283342;
+     width: 100%;
+   }
+   
+   .nav-item {
+     float: left;
+     margin-left: 100px;
+   }
+   
+  .lia123 {
+     display: block;
+     color: white;
+     text-align: center;
+     
+     text-decoration: none;
+   }
+   
